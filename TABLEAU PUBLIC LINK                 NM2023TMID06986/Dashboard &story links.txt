@@ -1,0 +1,16 @@
+                                                          ESTIMATION OF BUSINESS EXPENSES                   
+
+ dashboard public link-https://public.tableau.com/views/dashboard1_16970888581980/ExpensesBreakdown?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/dashboard2_16970889869610/BusinessExpenditureOverview?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/dashboard3_16970890509990/ExpensesInsights?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+story public link-https://public.tableau.com/views/story1_16970891261820/Expenses1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/story2_16970892180360/Expenses2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+Video demonstration link-https://drive.google.com/file/d/1e6sYat-n0yCZwb1iaGXn4nMsIS5R0dqP/view?usp=drivesdk
